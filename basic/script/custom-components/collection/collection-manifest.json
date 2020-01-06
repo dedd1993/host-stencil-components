@@ -1,0 +1,15 @@
+{
+  "entries": [
+    "components/spinner/spinner.js",
+    "components/stock-price/stock-price.js",
+    "components/stock-finder/stock-finder.js",
+    "components/my-component/my-component.js"
+  ],
+  "compiler": {
+    "name": "@stencil/core",
+    "version": "1.8.3",
+    "typescriptVersion": "3.7.2"
+  },
+  "collections": [],
+  "bundles": []
+}

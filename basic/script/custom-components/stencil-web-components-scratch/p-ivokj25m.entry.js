@@ -1,0 +1,1 @@
+import{r as t,h as r}from"./p-f4b78931.js";const s=class{constructor(r){t(this,r)}getText(){return(this.first||"")+((t=this.middle)?` ${t}`:"")+((r=this.last)?` ${r}`:"");var t,r}render(){return r("div",null,"Hello, World! I'm ",this.getText())}static get style(){return""}};export{s as my_component};
